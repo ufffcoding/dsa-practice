@@ -8,7 +8,7 @@ function bubbleSort(array) {
       }
     }
   }
-  return array;
+  return array; // it should be after the func complete
 }
 
 const res = bubbleSort([3, 2, 1, 6, 7, 9, 8, 4, 5]);
